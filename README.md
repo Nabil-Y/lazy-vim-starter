@@ -3,4 +3,4 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-
+For brand new installation, see [here](https://github.com/Nabil-Y/nvim-install)
